@@ -7,12 +7,15 @@ description: "Some things that I have made and some opinions on things other peo
 email: "rmyj@protonmail.com"
 #twitter_username: "someusername"
 github_username: "rmyj"
-#linkedin_username: "linkedinuser"
+linkedin_username: "jeremy-shanks-0985a0260"
 
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
 theme: "minima"
+
+minima:
+  skin: dark
 
 rss: rss
 
