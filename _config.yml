@@ -14,9 +14,6 @@ linkedin_username: "jeremy-shanks-0985a0260"
 #########################################################################################
 theme: "minima"
 
-minima:
-  skin: dark
-
 rss: rss
 
 kramdown:
