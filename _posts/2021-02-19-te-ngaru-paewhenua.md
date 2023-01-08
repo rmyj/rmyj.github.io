@@ -1,4 +1,4 @@
-# Hei Matau
+# Te Ngaru Paewhenua - Hei Matau
 
 In the summer of 2020/2021, I recieved a Te Ngaru Paewhenua: The Landward Wave Science scholarship which funded me to work on two heritage projects at the University of Otago.
 
