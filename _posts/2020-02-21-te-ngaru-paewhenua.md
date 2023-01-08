@@ -1,4 +1,4 @@
-# Te Ngaru Paewhenua
+# Lithic Analysis
 
 In the summer of 2019/2020, I recieved a Te Ngaru Paewhenua: The Landward Wave Science scholarship which funded me to work on a heritage project at the University of Otago.
 
